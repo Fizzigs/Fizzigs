@@ -86,6 +86,10 @@
   <a href="https://www.youtube.com/watch?v=S0a1FyDtQbo" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
   </a>
+  <a href="https://github.com/Fizzigs/proyecto_paginaweb_videojuegos" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
+</a>
+
 </div>
 
 -----
