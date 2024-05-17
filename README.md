@@ -6,14 +6,16 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <div align="center"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**</div>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<div align="center">
+  <p>Hello! I am Joan Atrio, an active learner and researcher with a passion for discovering and learning new things.</p>
+</div>
 
-<p>Hello! I am Joan Atrio, an active learner and researcher with a passion for discovering and learning new things.</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b></div>
 <br>
+
+<div align="center">
 
 - **Languages**:
 
@@ -44,11 +46,13 @@
 
 <br>
 
+</div>
+
 -----
 
 <br>
 
-## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <div align="center"><b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></div>
 <br>
 
 <div align='center'>
@@ -61,4 +65,7 @@
 
 <br>
 
-Credit: [Joan Atrio](https://github.com/Fizzigs)
+<div align="center">
+  Credit: <a href="https://github.com/Fizzigs">Joan Atrio</a>
+</div>
+
