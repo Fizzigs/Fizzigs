@@ -89,19 +89,50 @@
   <a href="https://github.com/Fizzigs/proyecto_paginaweb_videojuegos" target="_blank">
     <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
 </a>
-
+  
 </div>
+  <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
+
+
+ <p><b>Technologies used:</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    </p>
+
+  </div>
+  
 
 -----
 
 <!-- New Section: New Projects Coming Soon -->
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
-  <b>New Projects Coming Soon</b>
+  <b>Match Aplication</b>
 </h2>
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
-  <p>Stay tuned for exciting new projects currently in development!</p>
-</div>
+  <p>This is a co-worked project, the main purpuse is to develop an aplication for a restaurant with unique feedback to each user, and have a great experience!</p>
+  <img src="https://i.imgur.com/ljnex8e.png" alt="Featured Video" style="width: 20%; max-width: 70px; height: auto;">
+  <br>
+  <a href="https://www.youtube.com/watch?v=fX2l-5RhWIw" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+  </a>
+  <a href="https://github.com/Brianpppp/proyecto_match" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
+</a>
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
+
+
+ <p><b>Technologies used:</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    </p>
+
+  </div>
 
 <hr style="border-top: 2px solid #4A90E2; margin: 40px auto;">
 
