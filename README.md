@@ -114,7 +114,7 @@
 </h2>
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
-  <p>This is a co-worked project, the main purpuse is to develop an aplication for a restaurant with unique feedback to each user, and have a great experience!</p>
+  <p>This is a co-worked project, the main purpose is to develop an application for a restaurant with unique recommending feedback for the user!</p>
   <img src="https://i.imgur.com/ljnex8e.png" alt="Featured Video" style="width: 20%; max-width: 70px; height: auto;">
   <br>
   <a href="https://www.youtube.com/watch?v=fX2l-5RhWIw" target="_blank">
