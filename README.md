@@ -79,7 +79,7 @@
 </h2>
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
-  <p>This is a personal project, developed with the purpose of making an informative videogame page!</p>
+  <p>This is a personal project, developed with the purpose of describing myself in a more technical way, hope you like it!</p>
   <img src="https://i.imgur.com/XGphaFx.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
   <br>
   <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
