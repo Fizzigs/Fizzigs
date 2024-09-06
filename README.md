@@ -79,7 +79,7 @@
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
   <p>This is a personal project, developed with the purpose of making an informative videogame page!</p>
-  <img src="https://imgur.com/a/portfolio-gi2oIx0" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
+  <img src="https://i.imgur.com/Bm1fo09.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
   <br>
   <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
