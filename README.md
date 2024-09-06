@@ -79,7 +79,7 @@
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
   <p>This is a personal project, developed with the purpose of making an informative videogame page!</p>
-  <img src="https://i.imgur.com/Bm1fo09.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
+  <img src="https://i.imgur.com/2aiX4Be.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
   <br>
   <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
@@ -111,7 +111,7 @@
   <img src="https://i.imgur.com/2aiX4Be.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
   <br>
   <a href="https://www.youtube.com/watch?v=S0a1FyDtQbo" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit the Website">
   </a>
   <a href="https://github.com/Fizzigs/proyecto_paginaweb_videojuegos" target="_blank">
     <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
