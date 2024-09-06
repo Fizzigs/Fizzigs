@@ -73,7 +73,34 @@
 
 
 </div>
+<h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
+  <b>Portfolio personal</b>
+</h2>
 
+<div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
+  <p>This is a personal project, developed with the purpose of making an informative videogame page!</p>
+  <img src="https://imgur.com/a/portfolio-gi2oIx0" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
+  <br>
+  <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+  </a>
+  <a href="[https://github.com/Fizzigs/proyecto_paginaweb_videojuegos](https://github.com/Fizzigs/portfolio_joan_atrio)" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
+</a>
+  
+</div>
+  <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
+
+
+ <p><b>Technologies used:</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    </p>
+
+  </div>
 <!-- New Section: Description with Video -->
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
   <b>Gamer Heaven Project</b>
