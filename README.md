@@ -82,7 +82,7 @@
   <img src="https://i.imgur.com/XGphaFx.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
   <br>
   <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit the Website">
+  <img src="https://img.shields.io/badge/Visit%20the%20Website-00A6A6?style=for-the-badge&logo=globe&logoColor=white" alt="Visit the Website">
   </a>
   <a href="[https://github.com/Fizzigs/proyecto_paginaweb_videojuegos](https://github.com/Fizzigs/portfolio_joan_atrio)" target="_blank">
     <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
@@ -101,6 +101,8 @@
     </p>
 
   </div>
+  -----
+
 <!-- New Section: Description with Video -->
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
   <b>Gamer Heaven Project</b>
@@ -135,7 +137,6 @@
 
 -----
 
-<!-- New Section: New Projects Coming Soon -->
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
   <b>Match Aplication</b>
 </h2>
