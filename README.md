@@ -85,7 +85,7 @@
   <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20the%20Website-00A6A6?style=for-the-badge&logo=globe&logoColor=white" alt="Visit the Website">
   </a>
-  <a href="[https://github.com/Fizzigs/proyecto_paginaweb_videojuegos](https://github.com/Fizzigs/portfolio_joan_atrio)" target="_blank">
+  <a href="https://github.com/Fizzigs/portfolio_joan_atrio" target="_blank">
     <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
 </a>
   
