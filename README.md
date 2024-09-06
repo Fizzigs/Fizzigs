@@ -71,6 +71,7 @@
     <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
+<hr style="border-top: 2px solid #4A90E2; margin: 40px auto;">
 
 </div>
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
@@ -101,7 +102,8 @@
     </p>
 
   </div>
-  -----
+
+<hr style="border-top: 2px solid #4A90E2; margin: 40px auto;">
 
 <!-- New Section: Description with Video -->
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
@@ -134,9 +136,6 @@
 
   </div>
   
-
------
-
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 34px; color: #4A90E2;">
   <b>Match Aplication</b>
 </h2>
