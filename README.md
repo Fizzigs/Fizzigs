@@ -32,16 +32,7 @@
 </h2>
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
-
- <p><b>Languages:</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java%20-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</p>
-
-
   <br>   
-
  <p><b>Front-End Development:</b></p>
 <p>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -50,8 +41,6 @@
   <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </p>
-
-
 
   <br> 
   <p><b>Back-End Development:</b></p>
@@ -80,7 +69,6 @@
 
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333;">
   <p>This is a personal project, developed with the purpose of describing myself in a more technical way, hope you like it!</p>
-  <img src="https://i.imgur.com/XGphaFx.png" alt="Featured Video" style="width: 80%; max-width: 800px; height: auto;">
   <br>
   <a href="https://portfolio-joan-atrio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20the%20Website-00A6A6?style=for-the-badge&logo=globe&logoColor=white" alt="Visit the Website">
